@@ -129,6 +129,10 @@ main {
   box-sizing: border-box;
 }
 
+textarea {
+  resize: none;
+}
+
 .contacto input[type="submit"] {
   background-color: #333;
   color: white;
